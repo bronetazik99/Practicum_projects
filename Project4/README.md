@@ -1,6 +1,6 @@
 # Procrastinate Pro+ Marketing Analysis
 
-Welcome to the Procrastinate Pro+ marketing analysis project! Despite significant investments in advertising, this entertainment app has been struggling financially over the past few months. As a marketing analyst, your task is to uncover the root causes of these losses and provide actionable recommendations to improve the app's profitability.
+Welcome to the Procrastinate Pro+ marketing analysis project! Despite significant investments in advertising, this entertainment app has been struggling financially over the past few months. As a marketing analyst, our task is to uncover the root causes of these losses and provide actionable recommendations to improve the app's profitability.
 
 This project involves a detailed examination of three datasets:
 
