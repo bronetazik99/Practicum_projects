@@ -3,6 +3,7 @@
 This repository contains four data analysis projects, each addressing unique business challenges using Python and various data analysis techniques. Below, you will find the descriptions of each project, their goals, and the structure of the repository.
 
 ## Repository Structure
+'''
 .
 ├── Project_1_Borrower_Reliability
 │   ├── data_debts.csv/         # Raw and processed data used in the analysis
@@ -27,7 +28,7 @@ This repository contains four data analysis projects, each addressing unique bus
 │   └── README.md     # Project-specific documentation
 │
 └── README.md         # Overview of all projects
-
+'''
 
 ---
 
