@@ -23,5 +23,3 @@ Using Python for data analysis and visualization, this project aims to provide i
 - Evaluate the profitability and sustainability of advertising campaigns.
 - Provide actionable recommendations to optimize marketing efforts.
 
-Feel free to explore the provided scripts and insights in this repository. Your contributions and feedback are welcome!
-
