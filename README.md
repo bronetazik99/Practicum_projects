@@ -28,8 +28,8 @@ This repository contains four data analysis projects, each addressing unique bus
 │   └── README.md     # Project-specific documentation
 │
 └── README.md         # Overview of all projects
-. ├── Project_1_Borrower_Reliability │ ├── data/ # Raw and processed data used in the analysis │ ├── notebooks/ # Jupyter notebooks for data cleaning, EDA, and insights │ ├── results/ # Visualizations and reports │ └── README.md # Project-specific documentation │ ├── Project_2_Real_Estate_Analysis │ ├── data/ # Dataset containing historical property listings │ ├── notebooks/ # Analysis workflows and visualizations │ ├── results/ # Charts and EDA findings │ └── README.md # Project-specific documentation │ ├── Project_3_Video_Game_Sales │ ├── data/ # Dataset of video game sales and related attributes │ ├── notebooks/ # Steps of analysis including preprocessing and EDA │ ├── results/ # Findings and visualizations │ └── README.md # Project-specific documentation │ ├── Project_4_Procrastinate_Pro │ ├── data/ # User, orders, and advertising datasets │ ├── notebooks/ # Jupyter notebooks for marketing analysis │ ├── results/ # Insights and visualizations │ └── README.md # Project-specific documentation │ └── README.md # Overview of all projects
 
+'''
 ---
 
 ## Projects Overview
