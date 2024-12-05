@@ -28,6 +28,7 @@ This repository contains four data analysis projects, each addressing unique bus
 │   └── README.md     # Project-specific documentation
 │
 └── README.md         # Overview of all projects
+.
 '''
 ---
 
@@ -101,11 +102,3 @@ This repository contains four data analysis projects, each addressing unique bus
 - Actionable recommendations for improving marketing strategies.
 
 **Location:** `Project_4_Procrastinate_Pro/`
-
----
-
-## Contributing
-Contributions are welcome! Please follow the structure and add documentation for any changes or additions to ensure consistency across projects.
-
-## License
-This repository is licensed under the MIT License. See `LICENSE` for more details.
